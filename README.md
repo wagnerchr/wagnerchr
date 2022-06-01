@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 
 - 💼 Not Working 
-- 🌱 Currently learning ReactJs! and Firebase 9
+- 🌱 Currently learning Java
 - 👍 Wanna help other ones
 - 📖 Studying at IFSP
 - 🤔 Actually, need help with everything
