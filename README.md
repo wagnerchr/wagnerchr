@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 
 - 💼 Not Working 
-- 🌱 Currently learning Java
+- 🌱 Currently: Again ReactJS 😔
 - 👍 Wanna help other ones
 - 📖 Studying at IFSP
 - 🤔 Actually, need help with everything
@@ -18,4 +18,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dor&Sofrimento" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Dor&Sofrimento" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+   <img align="center" alt="Dor&Tormenta" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
 <div>
