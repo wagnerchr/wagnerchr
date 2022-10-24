@@ -1,7 +1,7 @@
 ## Hello, World! 👋
 
 - 💼 Not Working 
-- 🌱 Currently: Again ReactJS 😔
+- 🌱 Currently: Nah, going back to Java 
 - 👍 Wanna help other ones
 - 📖 Studying at IFSP
 - 🤔 Actually, need help with everything
