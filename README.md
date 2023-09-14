@@ -1,6 +1,6 @@
 ## Heello, World! 👋
 - 💼 Working at Puah with friends.
-- 🌱 Currently learning NestJS. 😎
+- 🌱 Currently learning C#. 😥
 - 👍 Want to help others.
 - 📖 Studying at IFSP, 6th semester. 👨‍🎓
 - 🤔 Actually, I need help with everything.
@@ -18,6 +18,8 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="NodeJs" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" alt="NodeJs" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
   <img align="center" alt="NestJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
